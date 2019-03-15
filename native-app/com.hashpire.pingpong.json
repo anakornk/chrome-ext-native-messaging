@@ -1,0 +1,9 @@
+{
+  "name": "com.hashpire.pingpong",
+  "description": "Ping Pong",
+  "path": "HOST_PATH",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://aialgoimoojkmepfkidflcnbcioakonf/"
+  ]
+}
